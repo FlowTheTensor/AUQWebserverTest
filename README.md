@@ -1,0 +1,1 @@
+Dies ist ein erstes Projekt für den Arduino Uno Q. Es zeigt, wie man einen kleinen Webserver mit Python erstellt und das Paket Flask über die requirements.txt einbindet.
